@@ -24,7 +24,7 @@ npm install dotenv
 ```
 Install those by using Command Prompt (simply type "cmd" in your Windows search bar and you'll find it) **or** you can install those directly in your VSCode's Terminal. 
 
-To check if those packages are already installed to your machine or not, simply browse through the file ```package.json```
+To check if those packages are already installed to your machine or not, simply browse through the file ```package.json```.
 
 **Step 4: Follow the codes**
 
@@ -32,10 +32,13 @@ After step 3, you are good to go! You can add more slash commands to the bot, th
 
 To run the code, you simply type "npm run dev" and it will automatically run the bot for you!
 
-### A few advice for you: 
-
+### :pushpin: A few advice for you: 
+- Make sure to save the codes as soon as you finish coding (Ctrl+S).
+- You don't need to pay attention to the ```package-lock.json``` file, just leave it there. :wink:
+-	:warning: Few notes on TOKEN: You need to know what exactly is a TOKEN. So, a TOKEN is a specific code required to have your code access to your actual bot. You can check your bot's TOKEN right after you finish creating your bot in [Discord Developer Portal](https://discord.com/developers/applications)<path: Applications/Bot>. You don't want to leak your bot's TOKEN to anyone, because they will have full access to your bot and make change to your bot afterwards, so be careful! I suggest you guys creating a ```.env``` file, and store your TOKEN there like this:
+```TOKEN=your-token-goes-here```
 - Whenever you encounter an error, it's okay! Seek for help in stackoverflow webpage. Most problems I encountered before, I always find my way to there. 
-- Practice makes perfect: Don't give up yet, and try to figure out stuff. Coding path is just all about trials and errors, so it's a okay :grinning:
+- Practice makes perfect: Don't give up yet, and try to figure out stuff. Coding path is just all about trials and errors, so it's a okay. :grinning:
 
 
 
