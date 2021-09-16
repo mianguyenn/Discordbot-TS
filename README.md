@@ -30,6 +30,8 @@ To check if those packages are already installed to your machine or not, simply 
 
 After step 3, you are good to go! You can add more slash commands to the bot, this is just a base code for a basic Discord bot. You can always make alterations. :grinning:
 
+To run the code, you simply type "npm run dev" and it will automatically run the bot for you!
+
 ### A few advice for you: 
 
 - Whenever you encounter an error, it's okay! Seek for help in stackoverflow webpage. Most problems I encountered before, I always find my way to there. 
